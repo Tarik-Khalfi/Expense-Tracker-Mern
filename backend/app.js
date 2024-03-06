@@ -19,8 +19,7 @@ connectDB();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:4000",
-
-  // add more origins as needed
+  "expense-tracker.onrender.com",
 ];
 
 // Middleware
